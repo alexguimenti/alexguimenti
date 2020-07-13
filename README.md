@@ -9,6 +9,6 @@
 
 - :rocket: **Product Manager** and **Tech Solutions Leader** @ Social Miner
 - :computer: **Enthusiastic web/mobile developer** studying Javascript, React.js, React Native, Node.js, TypeScript and **more**
-- :mortar_board: Mechanical Engineer (Universidade de São Paulo)
+- :mortar_board: **Mechanical Engineer** (Universidade de São Paulo)
 - :books: Currently enroled at **Rocketseat's GoStack Bootcamp** (https://rocketseat.com.br/gostack)
 
