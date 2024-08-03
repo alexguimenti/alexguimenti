@@ -7,7 +7,7 @@
 
 ### Hello stranger! 👋
 
-- :rocket: **Product Manager** @ 
-[**Linx**](https://www.linx.com.br/)
-- :computer: **Enthusiastic web/mobile developer** 
+- :rocket: **Product & Data** @ 
+[**Bees**]([https://www.linx.com.br/](https://www.bees.com/))
+- :computer: **Data, AI & Development enthusiast** 
 - :mortar_board: Mechanical Engineer (Universidade de São Paulo)
