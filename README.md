@@ -46,6 +46,10 @@ I'm a **Data Product Manager** passionate about transforming data into high-impa
 - **Product Manager (B2B)** @ BEES (AB InBev) | *Sep 2021 - Mar 2024*
 - **Product Manager** @ Linx | *Dec 2020 - Sep 2021*
 - **Product Manager** @ Social Miner | *Oct 2019 - Nov 2020*
+- **Account Manager – Client Success Representative for Latin America** @ Meltwater | *Nov 2017 - Dec 2018*
+- **Onboarding Coordinator** @ Stone / Pagar.me | *Jul 2017 - Oct 2017*
+- **Onboarding Analyst** @ Stone / Pagar.me | *Apr 2017 - Jul 2017*
+- **Commercial Analyst** @ Stone / Pagar.me | *Feb 2016 - Apr 2017*
 
 ## 🎓 Featured Certifications
 _Selected from 40+ relevant courses (full courses list on LinkedIn profile):_  
