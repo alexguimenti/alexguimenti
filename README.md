@@ -50,12 +50,16 @@ I'm a **Data Product Manager** passionate about transforming data into high-impa
 ## 🎓 Featured Certifications
 _Selected from 40+ relevant courses (full courses list on LinkedIn profile):_  
 
-- Multi AI Agent Systems with crewAI (DeepLearning.AI)
-- OpenAI Python API Bootcamp (Udemy)
-- Deep Learning A-Z 2024 (Udemy)
-- Artificial Intelligence A-Z 2024 (Udemy)
-- Amplitude Foundations & Practitioner (Amplitude)
-- Product Management for AI & Data Science (Udemy)
+- Multi AI Agent Systems with crewAI (DeepLearning.AI, Apr 2025)
+- Product Management for AI & Data Science (Udemy, Jul 2024)
+- Amplitude Foundations - Experiment (Amplitude, Nov 2024)
+- Statistics for Data Science and Business Analysis (Udemy, Dec 2024)
+- Complete SQL Bootcamp (Udemy, Jan 2019)
+- Design Thinking for Beginners (Udemy, May 2022)
+- Cloud Computing Core Concepts (LinkedIn, Nov 2023)
+- CS50x: Intro to Computer Science (Harvard, May 2020)
+- LGPD - Lei Geral de Proteção de Dados (Impacta, May 2021)
+- APIs and Web Services (LinkedIn, Dec 2023)
 
 ## 📊 GitHub Stats
 
