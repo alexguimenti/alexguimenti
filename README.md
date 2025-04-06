@@ -48,6 +48,7 @@ I'm a **Data Product Manager** passionate about transforming data into high-impa
 - **Product Manager** @ Social Miner | *Oct 2019 - Nov 2020*
 
 ## 🎓 Featured Certifications
+_Selected from 40+ relevant courses (full courses list on LinkedIn profile):_  
 
 - Multi AI Agent Systems with crewAI (DeepLearning.AI)
 - OpenAI Python API Bootcamp (Udemy)
