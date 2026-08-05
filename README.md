@@ -60,8 +60,8 @@ Unlike traditional PMs, I actively operate as a **Product Engineer**:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexguimenti&show_icons=true&theme=dracula&count_private=true" alt="Alexandre's GitHub stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexguimenti&layout=compact&theme=dracula&hide=html,css" alt="Top Langs" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexguimenti&show_icons=true&theme=dracula" alt="Alexandre's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexguimenti&layout=compact&theme=dracula&hide=html,css" alt="Top Langs" width="48%" />
 </p>
 
 ---
